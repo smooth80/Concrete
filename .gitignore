@@ -8,6 +8,7 @@
 # Project #
 ###################
 node_modules
+package-lock.json
 deploy.log
 theme.lock
 

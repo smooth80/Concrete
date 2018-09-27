@@ -176,7 +176,7 @@
     "on_sale_html": "On sale for {{ price }}",
     "on_sale_from_html": "On sale from {{ price }}",
     "on_sale": "On sale",
-    "original_price": "Originaly",
+    "original_price": "Originally",
     "sold_out": "Sold out"
   },
   "home_page": {

@@ -9,9 +9,9 @@
   "license": "MIT",
   "version": "v2.0.1",
   "devDependencies": {
-    "@shopify/slate-tools": "0.12.1"
+    "@shopify/slate-tools": "^0.14.0"
   },
   "dependencies": {
-    "npm": "^6.1.0"
+    "npm": "^6.4.1"
   }
 }
